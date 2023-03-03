@@ -1,7 +1,7 @@
 main:
   - title: "홈"
     url: https://joowop.github.io/
-  - title: "Category"
+  - title: "CATEGORY"
     url: /categories/
-  - title: "어바웃미"
+  - title: "ABOUT"
     url: /aboutme/

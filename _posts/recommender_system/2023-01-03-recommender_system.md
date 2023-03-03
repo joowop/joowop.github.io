@@ -1,5 +1,5 @@
 ---
-title: "추천 시스템 모델링 test"
+title: "추천 시스템 모델링"
 excerpt: "사용자 설문 기반 추천 시스템 모델링 프로젝트 시작 "
 
 categories:
@@ -7,7 +7,7 @@ categories:
 
 toc: true
 toc_sticky: true
-# date: 2020-05-25
+date: 2023-02-20
 # last_modified_at: 2020-05-25
 ---
 

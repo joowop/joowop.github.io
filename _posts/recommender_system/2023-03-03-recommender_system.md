@@ -3,7 +3,7 @@ title: "추천 시스템 평가"
 excerpt: "F1-Score 평가"
 
 categories:
-  - recommend_system
+  - recommender_system
 
 toc: true
 toc_sticky: true

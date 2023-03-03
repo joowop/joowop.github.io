@@ -3,7 +3,7 @@ title: "추천 시스템 모델링"
 excerpt: "사용자 설문 기반 추천 시스템 모델링 프로젝트 시작 "
 
 categories:
-  - recommend_system
+  - recommender_system
 
 toc: true
 toc_sticky: true

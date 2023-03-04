@@ -283,3 +283,10 @@ defaults:
       show_date: true
       date_format: "%Y-%m-%d"
       sidebar_main: true
+      # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

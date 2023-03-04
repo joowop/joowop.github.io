@@ -1,7 +1,7 @@
 ---
 title: "추천 시스템"
 layout: archive
-permalink: categories/recommender_system
+permalink: categories/recommend
 author_profile: true
 sidebar_main: true
 ---

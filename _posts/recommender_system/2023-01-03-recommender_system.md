@@ -48,7 +48,7 @@ now = pd.to_datetime(dt.today())
 
 ### 데이터 로드
 
-DB 차량 data를 import하기 위해 sys를 통해 moudules 접근.
+DB 차량 data를 import하기 위해 moudules 접근.
 EDAHelper라는 모듈을 통해 DB의 data를 가독성 있는 data로 변환.
 data 정규화를 위한 라이브러리인 MinMaxScaler 채택.
 

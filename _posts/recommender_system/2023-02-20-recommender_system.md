@@ -7,7 +7,6 @@ categories: recommender_system
 toc: true
 toc_sticky: true
 date: 2023-02-20
-# last_modified_at: 2020-05-25
 ---
 
 # 사용자 설문 기반 중고트럭 추천 서비스 모델링
@@ -16,7 +15,7 @@ date: 2023-02-20
 
 - python, sklearn, tensor
 
----
+### 모델 설계 과정
 
 - 유저들이 구입하려는 중고트럭을 쉽게 탐색할 수 있도록 차량 구매자 요구에 따른 근접매물 추천 서비스를 제공하고자 개발 목표 수립
 
